@@ -8,6 +8,10 @@
       "groupName": "JavaScriptEngineSwitcher packages"
     },
     {
+      "sourceUrlPrefixes": ["https://github.com/aspnet/Extensions"],
+      "groupName": "ASP.NET Extensions"
+    },
+    {
       "sourceUrlPrefixes": [
         "https://github.com/aspnet/MetaPackages",
         "https://github.com/aspnet/AspNetCore"
