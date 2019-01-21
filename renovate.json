@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "prHourlyLimit": 20,
+  "prHourlyLimit": 30,
   "packageRules": [
     {
       "sourceUrlPrefixes": ["https://github.com/Taritsyn/JavaScriptEngineSwitcher"],
