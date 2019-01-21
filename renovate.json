@@ -12,9 +12,12 @@
       "groupName": "ASP.NET Extensions"
     },
     {
+      "packagePatterns": ["^Microsoft.AspNetCore"],
+      "groupName": "ASP.NET Core packages"
+    },
+    {
       "sourceUrlPrefixes": [
         "https://github.com/aspnet/MetaPackages",
-        "https://github.com/aspnet/MvcPrecompilation",
         "https://github.com/aspnet/AspNetCore"
       ],
       "groupName": "ASP.NET Core packages"
