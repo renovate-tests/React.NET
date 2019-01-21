@@ -6,6 +6,13 @@
     {
       "sourceUrlPrefixes": ["https://github.com/Taritsyn/JavaScriptEngineSwitcher"],
       "groupName": "JavaScriptEngineSwitcher packages"
+    },
+    {
+      "sourceUrlPrefixes": [
+        "https://github.com/aspnet/MetaPackages",
+        "https://github.com/aspnet/AspNetCore"
+      ],
+      "groupName": "ASP.NET Core packages"
     }
   ]
 }
